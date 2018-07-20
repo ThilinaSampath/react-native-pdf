@@ -1,12 +1,12 @@
 {
-    "name": "react-native-pdf",
+    "name": "react-native-pdf-enhanced",
     "version": "4.0.0",
     "description": "A react native PDF view component",
     "main": "index.js",
     "typings": "./index.d.ts",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/wonday/react-native-pdf.git"
+        "url": "git+https://github.com/ThilinaSampath/react-native-pdf.git"
     },
     "keywords": [
         "react-component",
