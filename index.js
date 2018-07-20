@@ -19,7 +19,7 @@ import {
     StyleSheet
 } from 'react-native';
 
-import RNFetchBlob from 'rn-fetch-blob';
+import RNFetchBlob from 'rn-fetch-blob-enhanced';
 
 const SHA1 = require('crypto-js/sha1');
 import resolveAssetSource from 'react-native/Libraries/Image/resolveAssetSource';
